@@ -1,1 +1,1 @@
-# javascpit-code
+# javascript-code
